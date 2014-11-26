@@ -28,4 +28,25 @@ modified,add,modified: git checkout -- filename | git reset HEAD filename | git 
 
 456
 
+
+
+git remote add origin git@github.com:jackback/git_test.git
+创建本地和github远程仓库关联起来
+
+git push -u origin master
+建本地内容推送到远程仓库
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 end
