@@ -15,5 +15,9 @@ git tracks change
 
 of files
 
+test git checkout
+
+
+test git reset
 
 end
