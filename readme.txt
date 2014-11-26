@@ -22,7 +22,8 @@ test git reset
 
 modified: git checkout -- filename
 modified, add: git reset HEAD filename  | git checkout -- filename   
-modified,add,modified: git reset
+modified,add,modified: git checkout -- filename | git reset HEAD filename | git checkout -- file 
+
 
 
 456
